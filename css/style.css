@@ -1,0 +1,9 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+:root {
+    --brand-color: whitesmoke !important;
+    --color-text: white !important;
+    --background-color: rgb(15, 36, 129) !important;
+}
